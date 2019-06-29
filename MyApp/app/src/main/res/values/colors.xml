@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fire_end_color">#E89183</color>
+    <color name="fire_start_color">#FCFBEB</color>
+</resources>

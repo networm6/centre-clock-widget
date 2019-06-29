@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:37
+-keep class com.mysystem.wight.ClockService { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.mysystem.wight.TestWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.mysystem.wight.Wall { <init>(...); }
+
